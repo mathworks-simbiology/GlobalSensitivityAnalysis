@@ -40,6 +40,6 @@ Perform a targeted sensitivity analysis using the multiparametric global sensiti
 See also https://www.mathworks.com/help/simbio/ref/sbiompgsa.html.
 
 ## References
-Saltelli, Andrea, Paola Annoni, Ivano Azzini, Francesca Campolongo, Marco Ratto, and Stefano Tarantola. ?Variance Based Sensitivity Analysis of Model Output. Design and Estimator for the Total Sensitivity Index.? Computer Physics Communications 181, no. 2 (February 2010): 259?70. https://doi.org/10.1016/j.cpc.2009.09.018.
+Saltelli, Andrea, Paola Annoni, Ivano Azzini, Francesca Campolongo, Marco Ratto, and Stefano Tarantola. Variance Based Sensitivity Analysis of Model Output. Design and Estimator for the Total Sensitivity Index. Computer Physics Communications 181, no. 2 (February 2010): 259-270. https://doi.org/10.1016/j.cpc.2009.09.018.
 
-Tiemann, Christian A., Joep Vanlier, Maaike H. Oosterveer, Albert K. Groen, Peter A. J. Hilbers, and Natal A. W. van Riel. ?Parameter Trajectory Analysis to Identify Treatment Effects of Pharmacological Interventions.? Edited by Scott Markel. PLoS Computational Biology 9, no. 8 (August 1, 2013): e1003166. https://doi.org/10.1371/journal.pcbi.1003166.
+Tiemann, Christian A., Joep Vanlier, Maaike H. Oosterveer, Albert K. Groen, Peter A. J. Hilbers, and Natal A. W. van Riel. Parameter Trajectory Analysis to Identify Treatment Effects of Pharmacological Interventions. Edited by Scott Markel. PLoS Computational Biology 9, no. 8 (August 1, 2013): e1003166. https://doi.org/10.1371/journal.pcbi.1003166.
